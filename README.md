@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining some industry experience
 - 🌱 I’m currently learning web development and other stuff like applications and systems programming
 - 💞️ I’m looking to collaborate on anything that can help me learn!
-- 📫 How to reach me - my email is Peteacevedo6@gmail.com
+- 📫 How to reach me - my email is Peteacevedo0729@gmail.com
 
 <!---
 Pete0729/Pete0729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
